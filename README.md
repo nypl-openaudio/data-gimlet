@@ -8,7 +8,7 @@ Use of these materials is restricted to participants of Open Audio Weekend durin
 ## The Collection Description
 [Gimlet Media](https://gimletmedia.com/) is the premier digital media company focused on producing high quality narrative podcasts. They have provided audio from four of their podcasts:
     * [Reply All](https://gimletmedia.com/show/reply-all/) - A Show About the Internet
-    * [Mystery Show Case](https://gimletmedia.com/show/mystery-show/) - A podcast where Starlee Kine solves mysteries.
+    * [Mystery Show](https://gimletmedia.com/show/mystery-show/) - A podcast where Starlee Kine solves mysteries.
     * [Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/) - Revealing the hidden awesomeness in everyday things
     * [Sampler](https://gimletmedia.com/show/sampler/) - A podcast about podcasts, hosted by Brittany Luse
 
